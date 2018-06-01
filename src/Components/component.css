@@ -1,0 +1,63 @@
+.background-color {
+/*  text-align: center;*/
+    background-color:white;
+    padding: 20px;
+    box-shadow: 1px 1px 2px 3px darkgrey ;
+    border:1px solid #eee;
+    margin: 1px;
+    
+   
+}
+.img{
+    margin-top: 10px;
+    height: 15%;
+    width: 15%;
+    border:2px solid #eee;
+    box-shadow: 2px 2px 1px 1px darkgrey;
+    border-radius: 5px;
+    border-style: hidden;
+    
+}
+.profession{
+    font-size: 20px;
+    font-family:cursive
+}
+.name{
+    margin-top: 10px;
+    font-family:inherit;
+    font-size:30px;
+    font-weight: 600;     
+}
+.left{
+    margin-right: 94%;
+    display: inline-block;  
+}
+
+.heading{
+    font-family: fantasy;
+    font-weight: 100;
+}
+
+.faded{
+    font-family: cursive;
+}
+
+/*
+.background-image{
+  background-image: url(bg2.jpg);
+  padding: 20px;
+}
+*/
+
+.icon-color{
+    color: darkgray;
+    font-size: 25px;
+    
+}
+
+.bar{
+    width:20%;
+}
+
+
+
